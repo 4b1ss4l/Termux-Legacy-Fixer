@@ -20,8 +20,8 @@ echo "deb https://termux.dev/science-packages-21-bin science stable" > science.l
 cd ~
 ```
 ```ShellSession
-apt upgrade -y && apt update -y
+apt upgrade -y && pkg upgrade && apt upgrade -y
 ```
-Y
 N
+
 Y
