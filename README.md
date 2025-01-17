@@ -1,4 +1,6 @@
 # Termux-Offline-BootsTrap-Fixer
+Download[https://archive.org/download/termux-repositories-legacy/termux-v0.79-offline-bootstraps.apk]
+
 ```ShellSession
 cd ../usr/etc/apt/
 ```
